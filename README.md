@@ -5,3 +5,7 @@ pip install -r requirements.txt
 
 
 when want to use, run app_主体.py directly
+
+
+
+try : pip show pyside6-addons in terminal to check if successsfully downloaded it
